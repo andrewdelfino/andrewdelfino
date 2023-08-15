@@ -6,9 +6,9 @@
 
 - 👨‍💻 Visite meu portifólio [andrewdelfino.github.io/index.html](andrewdelfino.github.io/index.html)
 
-- 📎 Conecte-se com meu <a href="https://linkedin.com/in/andrewdelfs" target="_blank">LinkedIn</a>
+- 📎 Conecte-se com meu <a href="https://linkedin.com/in/andrewdelfs">LinkedIn</a>
 
-- 📄 Meu currículo <a href="https://drive.google.com/file/d/1AxGU1iqdonoEep5Dckrt6YlIf1fAu3Qu/view?usp=sharing" target="_blank">CV Andrew</a>
+- 📄 Meu currículo <a href="https://drive.google.com/file/d/1AxGU1iqdonoEep5Dckrt6YlIf1fAu3Qu/view?usp=sharing">CV Andrew</a>
 
 <hr>
 
