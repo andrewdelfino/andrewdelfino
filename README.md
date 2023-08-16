@@ -2,6 +2,8 @@
 
 - 🔭 Estou atualmente trabalhando como **Assistente Administrativo** em **BRF S.A.**
 
+- 👀 Interessado em **Front-End**
+
 - 🌱 Estudando **HTML e CSS**
 
 - 👨‍💻 Visite meu portifólio [andrewdelfino.github.io/index.html](andrewdelfino.github.io/index.html)
