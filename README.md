@@ -6,7 +6,7 @@
 
 - 🌱 Estudando **HTML e CSS**
 
-- 👨‍💻 Visite meu portifólio [andrewdelfino.github.io/index.html](andrewdelfino.github.io/index.html)
+- 👨‍💻 Visite meu <a href="https://andrewdelfino.github.io/index.html">Portifólio</a>
 
 - 📎 Conecte-se com meu <a href="https://linkedin.com/in/andrewdelfs">LinkedIn</a>
 
