@@ -2,9 +2,7 @@
 
 - 🔭 Estou atualmente trabalhando como **Assistente Administrativo** em **BRF S.A.**
 
-- 👀 Interessado em **Front-End**
-
-- 🌱 Estudando **HTML e CSS**
+- 🌱 Estudando **Engenharia de Software**
 
 - 📎 Conecte-se com meu <a href="https://linkedin.com/in/andrewdelfs">LinkedIn</a>
 
