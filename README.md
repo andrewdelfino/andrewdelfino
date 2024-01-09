@@ -8,7 +8,7 @@
 
 - ➕ Conecte-se com meu <a href="https://linkedin.com/in/andrewdelfs">LinkedIn</a>
 
-- 🧾 Meu currículo <a href="https://drive.google.com/file/d/1qg8UsPqvu2W1h_UrRpmBOE5RZEUapOK8/view?usp=sharing">Curriculum Vitae - Andrew Delfino</a>
+- 🧾 Meu currículo <a href="https://drive.google.com/file/d/1L52R2hQ302yXMePItBZocRp4KQjknE4J/view?usp=sharing">Curriculum Vitae - Andrew Delfino</a>
 
 <hr>
 
