@@ -1,6 +1,6 @@
 <h1 align="center">👋Olá, sou o Andrew</h1>
 
-- 🔭 Estou atualmente trabalhando como **Assistente Administrativo** em **BRF S.A.**
+- 🔭 Estou atualmente trabalhando como **Estagiário** em **BRF S.A.**
 
 - 🧠 Sou estudante de **Engenharia de Software**
 
