@@ -1,13 +1,18 @@
-<h1 align="center">👋Olá, sou o Andrew</h1>
+<h1>👋Olá, sou o Andrew</h1>
 
-- 🔭 Estou atualmente trabalhando como **Estagiário** em **BRF S.A.**
+- 🔭 Interessado pela área **Full-stack**
 
 - 🧠 Sou estudante de **Engenharia de Software**
 
-- 🌱 Estudando e aprimorando minhas habilidades em: **HTML, CSS** e **JavaScript**
+- 📚 Acesse meu <a href="https://linkedin.com/in/andrewdelfs">Portifólio</a>
 
-- ➕ Conecte-se com meu <a href="https://linkedin.com/in/andrewdelfs">LinkedIn</a>
+- 💬 Conecte-se com meu <a href="https://linkedin.com/in/andrewdelfs">LinkedIn</a>
 
-<hr>
+<h1>🌱 Skills em desenvolvimento </h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdelfino&layout=compact&theme=dark)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
